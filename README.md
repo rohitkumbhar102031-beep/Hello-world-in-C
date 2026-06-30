@@ -1,8 +1,8 @@
 # Hello-world-in-C
-first-code-in-C-language<br>
-#include <stdio.h>
+first-code-in-C-language <br>
+#include <stdio.h> <br>
 
-int main(){
-    printf ("Hello World");
-    return 0;
+int main(){ <br>
+    printf ("Hello World");<br>
+    return 0;<br>
 }
